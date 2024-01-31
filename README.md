@@ -1,2 +1,2 @@
 # codeway
-Assignment for java internship
+Assignment 1 for java internship
