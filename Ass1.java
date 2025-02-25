@@ -1,5 +1,5 @@
 import java.util.*;
-
+//om link
 public class Ass1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
